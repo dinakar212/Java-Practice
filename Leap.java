@@ -3,13 +3,13 @@ class Leap
 {
 public static void main(String []x)
 {
- int a;
+ int y;
 System.out.println("ENTER THE YEAR");
 Scanner in = new Scanner(System.in);
-a=in.nextInt();
-if(a%4==0)
+y=in.nextInt();
+if(y%4==0)
 System.out.println("LEAP YEAR");
-elseif(a%400==0)
+elseif(y%400==0)
 System.out.println("LEAP YEAR");
 else
 System.out.println("NOT A LEAP YEAR");
