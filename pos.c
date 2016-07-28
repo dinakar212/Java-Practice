@@ -13,3 +13,4 @@ printf("negative number");
 }
 else
 printf("non categorized whole number");
+}
