@@ -3,12 +3,12 @@ class Large
 {
 public static void main(String []x)
 {
- int x,y,z;
+ int a,b,c;
 System.out.println("ENTER THE NUMBER");
 Scanner in = new Scanner(System.in);
-x=in.nextInt();
-y=in.nextInt();
-z=in.nextInt();
+a=in.nextInt();
+b=in.nextInt();
+c=in.nextInt();
 if(a>b)
 {
   if(a>c)
