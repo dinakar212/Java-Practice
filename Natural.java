@@ -11,6 +11,6 @@ for(i=0;i<=n;i++)
 {
  s=s+i;
  }
- System.out.println("The sum of natural numbers is " +c);
+ System.out.println("The sum of natural numbers is " +s);
  }
  }
