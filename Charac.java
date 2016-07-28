@@ -8,9 +8,9 @@ System.out.println("ENTER THE NUMBER");
 Scanner in = new Scanner(System.in);
 c=in.nextChar();
 if((c>=65&&<=90)||(c>=97&&<=122))
-System.out.println("it is a character");
+System.out.println("it is an alphabet");
 else
-System.out.println("not a character");
+System.out.println("not an alphabet");
 }
 } 
   
