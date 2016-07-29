@@ -15,7 +15,7 @@ while(n>0)
  n=n/10;
  }
  if(ans==sum)
- System.out.println("plindrome number");
+ System.out.println("palindrome number");
  else
  System.out.println("not a palindrome number");
  }
